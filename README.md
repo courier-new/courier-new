@@ -10,7 +10,7 @@
 <br />
 **Frolicking around:** Seattle ← _San Francisco_ ← _Los Angeles_ ← _Phoenix_
 
-I consider myself a generalist and love working across the whole stack; you can see a breakdown of some of the languages I've used the most below. I also care a lot about inclusive engineering culture and believe that great technical leadership is as much about empowering your teammates as it is about building great software. Talk to me about using [TypeScript](https://www.typescriptlang.org/), your favorite tea to pair [boba](https://en.wikipedia.org/wiki/Bubble_tea), or whether or not there's a [pipeline problem](http://isitapipelineproblem.com/) in tech.
+I consider myself a generalist and love working across the whole stack; you can see a breakdown of some of the languages I've used the most below. I also care a lot about inclusive engineering culture and believe that great technical leadership is as much about empowering your teammates as it is about building great software. Talk to me about using [TypeScript](https://www.typescriptlang.org/), your favorite tea to pair with [boba](https://en.wikipedia.org/wiki/Bubble_tea), or whether or not there's a [pipeline problem](http://isitapipelineproblem.com/) in tech.
 
 ### 💞 Likes
 - Strongly-typed languages
