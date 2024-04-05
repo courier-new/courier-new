@@ -214,3 +214,22 @@ I consider myself a generalist and love working across the whole stack; you can 
 </tr>
 
 </table>
+
+## Guiding principles
+
+- **Pave the way for those who come after us:** We live in a time of great abundance and innovation, but also great inequity. I believe that coding and computation are to this era what writing and reading were to the last one. Written communication has propelled us all forward in incalculable ways, but it was once only accessible to the wealthy and powerful. The potential of software to improve human quality of life is also limitless, but today, less than 1% of the population can really tap into it. I believe in using technology to lift others up, break down barriers, and make technology itself more accessible, so that the day may soon come when *everyone* has the power to change the world with the code they write. 
+- **Reject the notion that people are lazy:** I don't believe in laziness; I believe people choose to do with their time what they feel motivated and empowered to pursue, what they have the energy and physical+mental capacity to accomplish, and what they decide is in their best interest. Rather than criticize others or ourselves for acting "lazy", I believe that we can instead use empathy and grace to understand what holds us back. We're all capable of doing amazing things when our needs our met.
+
+## How I work
+
+- I default to **asynchronous communication** and express myself better in writing than in speaking.
+- I need to **take time** to answer questions or prepare for extended meetings; I don't do well being put on the spot!
+- I try to pursue **self-documenting code** and documentation that prioritizes capturing "why" and how to use the code.
+- I won't interrupt or talk over others, which means that if a conversation is flying by, I may need your help creating an opening!
+- If you have a question for me or want to get my advice, **it's never a bother** and you're never taking up too much of time.
+- If you have feedback for me, I want to hear it! And I'll try to ask you for it early and often.
+- I always assume everyone is **doing the best that they can**, given the resources and knowledge they currently have.
+- I like working on the details just as much as I like thinking about the big picture!
+- I love being pushed to pursue things outside of my comfort zone, but I appreciate this the most in an environment where I know it's safe to fail.
+- I struggle with mental health and imposter syndrome. Please remember that **I'm just a human who is trying her best, too!** ❤️
+
