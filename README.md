@@ -18,6 +18,7 @@ I consider myself a generalist and love working across the whole stack; you can 
 - Fluffy cats
 - Singing harmonies
 - Intersectional feminism
+- Typography (like my username's [namesake](https://learn.microsoft.com/en-us/typography/font-list/courier-new)!)
 - Code reviews
 
 ### 👎 Dislikes
