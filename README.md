@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/courier-new/courier-new/main/greeting.png" alt="Doodle of Kelli, smiling and sitting behind a laptop and cup of boba milk tea, with a cat and text that says 'Hello, I'm Kelli!'">
 
 
-👋 I'm a full stack software with a penchant for type systems, scalable state management, and effective documentation. I have about 7 years professional engineering experience, most of which time I’ve spent working with startups on full stack end-to-end projects.
+👋 I'm a full stack software engineer with a penchant for type systems, scalable state management, and effective documentation. I have about 7 years professional engineering experience, most of which time I’ve spent working with startups on full stack end-to-end projects.
 
 **Building stuff at:** ✨???✨
 <br/>
@@ -251,6 +251,7 @@ In this section, I hope to convey to you a "user manual" for working with me, in
 
 - **Pave the way for those who come after us:** We live in a time of great abundance and innovation, but also great inequity. I believe that coding and computation are to this era what writing and reading were to the last one. Written communication has propelled us all forward in incalculable ways, but it was once only accessible to the wealthy and powerful. The potential of software to improve human quality of life is also limitless, but today, less than 1% of the population can really tap into it. I believe in using technology to lift others up, break down barriers, and make technology itself more accessible, so that the day may soon come when *everyone* has the power to change the world with the code they write.
 - **Reject the notion that people are lazy:** I don't believe in laziness; I believe people choose to do with their time what they feel motivated and empowered to pursue, what they have the energy and physical+mental capacity to accomplish, and what they decide is in their best interest. Rather than criticize others or ourselves for acting "lazy", I believe that we can instead use empathy and grace to understand what holds us back. When looking at someone's actions, I always try to assume that they are doing the best that they can, given the resources and knowledge that they currently have. We're all capable of doing amazing things when our needs are met and our motivations are aligned.
+- **Focus on sustainable systems, not goals:** g = f(x). Goals (g) are outputs of a system (f) applied to a series of inputs (x). Achieving a goal once doesn't mean we're set up to achieve the next one; it still depends on f and x. Many of the inputs are out of our control: you get sick, you hit a setback, or the goalpost moves. But the system *is* in our control, and one that's resilient and flexible is the thing that's going to get you to your goals, no matter what they are. Developing good goals can give us a lens through which to evaluate and improve our systems, but I believe successful individuals and teams focus more on developing the system itself.   
 
 ### How I work
 
