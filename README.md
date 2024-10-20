@@ -3,12 +3,12 @@
 
 👋 I'm a full stack software engineer with a penchant for type systems, scalable state management, and effective documentation. I have about 7 years professional engineering experience, most of which time I’ve spent working with startups on full stack end-to-end projects.
 
-**Building stuff at:** ✨???✨
+**Building telehealth for mental healthcare at** <sub><img width="14" height="14" src="https://growtherapy.com/static/img/rebrand-grow-logo.svg" /></sub> <a href="https://growtherapy.com">Grow Therapy</a>
 <br/>
-**Previously built stuff at:** <a href="https://sourcegraph.com"><sub><img width="14" height="14" src="https://www.vectorlogo.zone/logos/sourcegraph/sourcegraph-icon.svg" /></sub> Sourcegraph</a>, [Grio](https://www.grio.com/), <a href="https://aps.org/">American Physical Society</a>, <a href="https://ebay.com">eBay</a><br />
-**Organizing:** <a href="https://cascadiajs.com/"><sub><img height="14" width="14" src="https://pbs.twimg.com/profile_images/1232057196998881280/1-johzc2_400x400.png" alt="CascadiaJS" /></sub> CascadiaJS</a>, <a href="https://typescriptcongress.com/"><sub><img height="14" width="14" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" /></sub> TypeScript Congress</a>
+**Previously built cool stuff at** <sub><img width="14" height="14" src="https://www.vectorlogo.zone/logos/sourcegraph/sourcegraph-icon.svg" /></sub>  <a href="https://sourcegraph.com">Sourcegraph</a>, [Grio](https://www.grio.com/), <a href="https://aps.org/">American Physical Society</a>, <a href="https://ebay.com">eBay</a><br />
+**Nerding out with** <sub><img width="14" height="14" src="https://2024.squiggleconf.com/_astro/favicon.CM16Z6qI.png" /></sub> <a href="https://2024.squiggleconf.com/">SquiggleConf</a>, <sub><img height="14" width="14" src="https://pbs.twimg.com/profile_images/1232057196998881280/1-johzc2_400x400.png" alt="CascadiaJS" /></sub> <a href="https://cascadiajs.com/">CascadiaJS</a>, <sub><img height="14" width="14" src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" /></sub> <a href="https://typescriptcongress.com/">TypeScript Congress</a>
 <br />
-**Frolicking around:** Seattle ← _San Francisco_ ← _Los Angeles_ ← _Phoenix_
+**Frolicking around** Seattle ← _San Francisco_ ← _Los Angeles_ ← _Phoenix_
 
 I consider myself a generalist and love working across the whole stack; you can see a breakdown of some of the languages I've used the most below. I also care a lot about inclusive engineering culture and believe that great technical leadership is as much about empowering your teammates as it is about building great software. Talk to me about using [TypeScript](https://www.typescriptlang.org/), your favorite tea to pair with [boba](https://en.wikipedia.org/wiki/Bubble_tea), or whether or not there's a [pipeline problem](http://isitapipelineproblem.com/) in tech.
 
